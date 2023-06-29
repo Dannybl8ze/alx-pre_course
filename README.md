@@ -1,1 +1,1 @@
-My first readme
+Software Engineering in a bit
